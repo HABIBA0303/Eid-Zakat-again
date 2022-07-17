@@ -1,0 +1,79 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 40px
+}
+
+.first-section {
+    background-image: url(images/eid-jamat.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.one-start {
+    color: aliceblue;
+    padding-left: 200px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    margin-bottom: 100px;
+
+}
+
+
+.Link-B {
+    color: white;
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 5px;
+    border-radius: 5px;
+}
+
+.video-link {
+    padding-left: 50px;
+}
+
+.nd-section {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.nd-star {
+    color: black;
+    padding-left: 200px;
+    padding-right: 100px;
+}
+
+.Link-two {
+    text-decoration: none;
+    padding: 10px 5px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.three-sec {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.image-link {
+    padding-left: 200px;
+    width: 400px;
+    height: 260px;
+    margin-right: 200px;
+}
+
+.again-ex {
+    text-decoration: none;
+    padding: 10px 5px;
+    background-color: red;
+    border-radius: 5px;
+    color: aliceblue;
+
+}
