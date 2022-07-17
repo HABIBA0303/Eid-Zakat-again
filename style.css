@@ -97,6 +97,7 @@ h1 {
 .define-itt {
     display: flex;
     justify-content: center;
+    margin-bottom: 80px;
 }
 
 .one-fig {
@@ -106,5 +107,28 @@ h1 {
     height: 200px;
     margin: 20px 10px;
     box-shadow: 10px 5px 5px grey;
+    border-radius: 5px;
+
+}
+
+.image-three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.image-three img {
+    width: 25%;
+    margin: 10px;
+    box-shadow: 1px 1px 3px green;
+    border-radius: 5px;
+    margin-bottom: 80px;
+}
+
+.here-after {
+
+    text-align: center;
+    margin-bottom: 80px;
 
 }
