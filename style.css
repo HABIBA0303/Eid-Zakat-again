@@ -132,3 +132,30 @@ h1 {
     margin-bottom: 80px;
 
 }
+
+.last-part {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.two-three {
+    color: red;
+}
+
+.part-five {
+    border: 3px solid rgb(199, 167, 167);
+    align-items: center;
+    width: 100px;
+    height: 50px;
+}
+
+.part-five img {
+    display: flex;
+    align-items: center;
+
+    border-radius: 5px;
+
+
+}
